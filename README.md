@@ -26,7 +26,7 @@
 | Project | Technologies | Highlights |
 | :--- | :--- | :--- |
 | [**Price Comparison App**](#) | React, Node.js, MySQL | Cross-platform grocery price comparison with intuitive store-specific carts |
-| [**Dehradun Traffic Clusterer**](#) | Python (DBSCAN, Pandas, NumPy) | Identified congestion hotspots, built speed prediction models |
+| [**Dehradun Traffic Clusterer**](https://github.com/vedanschi/Dehradun-Traffic-Clusterer) | Python (DBSCAN, Pandas, NumPy) | Identified congestion hotspots, built speed prediction models |
 | [**Inventory Optimization Platform**](#) | Java, MySQL, Tomcat | Hash-based inventory retrieval, Dijkstra’s pathfinding for warehouse routing |
 | [**Library Management System**](#) | Java, MySQL | Complete CRUD library backend with relational DB design |
 
