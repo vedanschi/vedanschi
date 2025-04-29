@@ -1,83 +1,97 @@
-<!-- Animated Typing Heading -->
+<!-- Typing Animation Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B+I'm+Vedanschi!;Welcome+to+my+GitHub+Profile!;Cloud+%7C+DevOps+%7C+Web+Development+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&height=70&lines=Hi+%F0%9F%91%8B+I'm+Vedanshi+Samant!;Cloud+%7C+DevOps+%7C+Web+%7C+Data+%7C+AI+Enthusiast;Building+tech+that+makes+a+difference" alt="Typing SVG" />
 </p>
 
-<!-- Moving Background GIF -->
+<!-- Background GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300px">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="250px">
 </p>
-
-# 👋 Hello, I'm Vedanschi! 🚀
-
-> "Building solutions that matter."
-
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=flat-square&logo=github)](https://vedanschi.github.io/)  
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat-square&logo=linkedin)](your-linkedin-url)  
-[![GitHub](https://img.shields.io/github/followers/vedanschi?label=Follow&style=social)](https://github.com/vedanschi)
 
 ---
 
-## 🌟 About Me
+# 👩‍💻 About Me
 
-🎓 Cloud, DevOps, and Web Enthusiast.  
-🛠️ Focused on building scalable, efficient applications.  
-📚 Lifelong learner passionate about tech and innovation.
+🎓 **B.Tech Computer Science (Cloud Computing & Virtualization Technology)** at [UPES Dehradun](https://www.upes.ac.in/), 2022-2026  
+🌐 **Building AI Tools Intern** @ 23Ventures (Remote)  
+🛠️ **Tech Stack:** Java, Python, C++, Node.js, React, MySQL, Docker, AWS  
+🏆 **Leader** at Microsoft Technical Community, UPES (President & Former Joint Secretary)  
+🎯 **Focus:** Full-stack development, cloud infrastructure, AI tools, data analytics  
+🌟 **Motto:** *"Innovate boldly, build meaningfully."*
 
 ---
 
-## 🚀 Projects
+# 🚀 Featured Projects
 
-| Project | Description | Technologies |
+| Project | Technologies | Highlights |
 | :--- | :--- | :--- |
-| [About Me](https://vedanschi.github.io/about.html) | Portfolio showcasing my journey and interests. | HTML, CSS |
-| [Home Page](https://vedanschi.github.io/index.html) | Main portfolio landing page with projects. | HTML, CSS |
-| **Docker + Flask App** | Flask app with a MySQL database using Docker Bridge Networking. | Docker, Flask, Python, SQL |
+| [**Price Comparison App**](#) | React, Node.js, MySQL | Cross-platform grocery price comparison with intuitive store-specific carts |
+| [**Dehradun Traffic Clusterer**](#) | Python (DBSCAN, Pandas, NumPy) | Identified congestion hotspots, built speed prediction models |
+| [**Inventory Optimization Platform**](#) | Java, MySQL, Tomcat | Hash-based inventory retrieval, Dijkstra’s pathfinding for warehouse routing |
+| [**Library Management System**](#) | Java, MySQL | Complete CRUD library backend with relational DB design |
 
 ---
 
-## 🛠️ Tech Stack
+# 🧩 Skills & Technologies
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Web & Cloud
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📈 GitHub Stats
+# 📚 Certifications
+
+- AWS Academy Cloud Architecting (2024)
+- AWS Academy Introduction to Cloud (2024)
+- AWS Academy Cloud Web Application Builder (2025)
+
+---
+
+# 🏆 Achievements
+
+- 🇫🇷 DELF A1 French Diploma – French Embassy
+- 🥉 3rd Place - COMFEST Quiz (Kanpur, 2020)
+- 🥇 Winner - SciTech Quiz (2019), Revelations Quiz (2018), ASISC Zonal Quiz (2018)
+
+---
+
+# 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedanschi&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedanschi&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vedanschi&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vedanschi&theme=tokyonight" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanschi&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanschi&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-## 📫 Connect with Me
+# 📬 Let's Connect
 
-- 🌐 [Website](https://vedanschi.github.io/)
-- 📧 your-email@example.com
-- 🖇️ [GitHub Repositories](https://github.com/vedanschi?tab=repositories)
+- [🌐 Portfolio Website](https://vedanschi.github.io/)
+- [💼 LinkedIn](#your-linkedin-link)
+- [📧 Email](mailto:your-email@example.com)
 
 ---
 
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=vedanschi.visitor-badge" alt="visitors" />
 </p>
-
----
-
-> ⭐ _"Code like a craftsman, innovate like an artist."_ ⭐
-
----
-
-# Thanks for visiting! 🌟
