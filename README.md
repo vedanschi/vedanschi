@@ -25,9 +25,10 @@
 
 | Project | Technologies | Highlights |
 | :--- | :--- | :--- |
+| [**Meeting Assistant**](https://github.com/vedanschi/MeetingAssistant) | Python, spaCy, FAISS, Transformers, Telegram Bot | Local-first AI meeting assistant with offline transcription, semantic search, and Telegram integration |
 | [**Price Comparison App**](https://github.com/vedanschi/Blinkey) | React, Node.js, MySQL | Cross-platform grocery price comparison with intuitive store-specific carts |
 | [**Dehradun Traffic Clusterer**](https://github.com/vedanschi/Dehradun-Traffic-Clusterer) | Python (DBSCAN, Pandas, NumPy) | Identified congestion hotspots, built speed prediction models |
-| [**Inventory Optimization Platform**](#) | Java, MySQL, Tomcat | Hash-based inventory retrieval, Dijkstra’s pathfinding for warehouse routing |
+| [**Inventory Optimization Platform**](https://github.com/vedanschi/inventory-management-system) | Java, MySQL, Tomcat | Hash-based inventory retrieval, Dijkstra's pathfinding for warehouse routing |
 | [**Library Management System**](#) | Java, MySQL | Complete CRUD library backend with relational DB design |
 
 ---
@@ -46,6 +47,13 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+### AI/ML & NLP
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FAISS](https://img.shields.io/badge/FAISS-0D96F6?style=for-the-badge&logo=facebook&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 ### Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
