@@ -25,11 +25,11 @@
 
 | Project | Technologies | Highlights |
 | :--- | :--- | :--- |
+| [**23Ventures Outreach App**](https://github.com/vedanschi/23ventures-outreach-app) | React, Flask, Supabase, Together AI | AI-powered outreach automation with CSV import, personalized email generation, and engagement tracking |
 | [**Meeting Assistant**](https://github.com/vedanschi/MeetingAssistant) | Python, spaCy, FAISS, Transformers, Telegram Bot | Local-first AI meeting assistant with offline transcription, semantic search, and Telegram integration |
 | [**Price Comparison App**](https://github.com/vedanschi/Blinkey) | React, Node.js, MySQL | Cross-platform grocery price comparison with intuitive store-specific carts |
 | [**Dehradun Traffic Clusterer**](https://github.com/vedanschi/Dehradun-Traffic-Clusterer) | Python (DBSCAN, Pandas, NumPy) | Identified congestion hotspots, built speed prediction models |
 | [**Inventory Optimization Platform**](https://github.com/vedanschi/inventory-management-system) | Java, MySQL, Tomcat | Hash-based inventory retrieval, Dijkstra's pathfinding for warehouse routing |
-| [**Library Management System**](#) | Java, MySQL | Complete CRUD library backend with relational DB design |
 
 ---
 
